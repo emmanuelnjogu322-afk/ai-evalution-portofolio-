@@ -1,5 +1,45 @@
-# ai-evalution-portofolio-
-AI Quality Evaluation Case Studies &amp; Analysis
+# AI Evaluation Portfolio
+**AI Quality Evaluation • Prompt Verification • Evidence Analysis**
+
+A growing portfolio documenting hands-on development in AI output evaluation, evidence verification, prompt engineering, and quality analysis.
+
+## Evaluation workflow
+
+1. Understand the task and constraints.
+2. Inspect claims, omissions, reasoning, and uncertainty.
+3. Verify important claims with appropriate evidence.
+4. Apply a consistent evaluation rubric.
+5. Assess severity and impact.
+6. Check confidence against evidence strength.
+7. Document the reasoning so it is auditable.
+8. Revise and retest where appropriate.
+
+## Portfolio structure
+
+```text
+evaluation-rubrics/
+case-studies/
+mock-evaluations/
+prompt-engineering/
+methodology/
+learning-log/
+```
+
+## Authenticity principle
+
+This repository documents practice work and learning, not fabricated professional experience. AI tools may assist with critique, formatting, or checking reasoning; the evaluation judgment and final documented conclusions are reviewed by me.
+
+## Current focus
+
+AI evaluation • Prompt engineering • ML fundamentals • Multimodal evaluation
+
+## About
+
+**Emmanuel Njogu Wakio** — University student building practical capability in AI and data quality evaluation.
+
+---
+
+*Portfolio foundation — September 2026.*
 🔍 AI Evaluation & Quality Analysis Portfolio
 AI Quality Analyst | Prompt Verifier | University Student
 Building systematic expertise in AI quality evaluation, evidence analysis, and output verification through documented case studies and structured skill development.
