@@ -1,6 +1,6 @@
 # AI Evaluation & Quality Portfolio
 
-**AI output evaluation · Evidence verification · Prompt quality · Human judgment**
+**AI Evaluation & Data Quality · Evidence Verification · Prompt Testing · Journalism & Mass Communication Student**
 
 This repository documents my developing practice in evaluating AI-generated answers, checking claims against evidence, identifying quality issues, and explaining judgments clearly. It is a work-in-progress portfolio built from independent exercises, mock evaluations, and structured learning—not a claim of paid professional experience.
 
@@ -98,12 +98,18 @@ My approach combines structured criteria with human judgment: AI tools can assis
 
 ## About
 
-I am a Journalism and Mass Communication student developing a portfolio at the intersection of AI quality, research, and clear communication. My aim is to make evaluation decisions understandable and auditable—not merely assign a score.
+I am a Journalism and Mass Communication student at **Tharaka University**, developing a portfolio at the intersection of **AI quality, evidence-based research, and clear communication**. My journalism studies support my interest in careful information handling, critical analysis, and making findings understandable to different audiences.
+
+My professional focus is reflected in this headline:
+
+> **AI Evaluation & Data Quality | Evidence Verification | Prompt Testing | Journalism & Mass Communication Student**
+
+The work in this repository is independent portfolio practice. I distinguish completed work from work in progress, and I do not present practice exercises as paid employment or externally validated results.
 
 ## Connect
 
-- **GitHub:** [emmanuelnjogu322-afk](https://github.com/emmanuelnjogu322-afk)
 - **LinkedIn:** [Emmanuel Njogu](https://ke.linkedin.com/in/emmanuel-njogu-912848431)
+- **GitHub profile:** [emmanuelnjogu322-afk](https://github.com/emmanuelnjogu322-afk)
 - **Email:** [emmanuelnjogu322@gmail.com](mailto:emmanuelnjogu322@gmail.com)
 
 ---
