@@ -1,10 +1,10 @@
 # Case Study 001 — Remote Work Productivity Claim
 
 **Case ID:** QA-EVAL-006  
-**Domain:** Employee Productivity / Academic Research  
+**Domain:** Employee Productivity / Research Quality  
 **Type:** Claim Verification / Evidence Assessment  
-**Status:** Revised working evaluation — source verification remains incomplete  
-**Evaluation mode:** Independent desk research and retrospective calibration review
+**Status:** Revised practice case — source claim remains unverified  
+**Evaluation mode:** Independent desk research using publicly accessible sources
 
 ## 1. Task and claim under review
 
@@ -12,99 +12,118 @@ The user asked:
 
 > “I'm researching whether remote work improves employee productivity. Can I say that remote workers are generally 25% more productive than office workers?”
 
-The AI response answered yes and asserted that remote workers are “generally about 25% more productive.” It also claimed that “several studies have proven” this, then described an alleged peer-reviewed study of 12,000 employees across 18 companies over three years, with a reported 24.7% output advantage after statistical controls.
+The AI response said the claim was suitable for research and asserted that “several studies” had proven an approximately 25% gain. It then described an alleged peer-reviewed study of 12,000 employees across 18 companies over three years, with a reported 24.7% output increase after controlling for several variables.
 
-**Important evidence boundary:** The original response did not identify the alleged study with a title, author, journal, DOI, or URL. The specific study description and 24.7% figure therefore remain **unverified** in this case. The absence of an identifiable citation is not, by itself, proof that the study was fabricated.
+**Important boundary:** The original response did not identify the alleged study by title, authors, journal, DOI, or URL. The underlying source was not provided or identified. Therefore, this evaluation does **not** conclude that the described study was fabricated. Its existence and the accuracy of the details attributed to it remain unverified.
 
-## 2. What the response got wrong at the evidence level
+## 2. Evaluation question
 
-The central failure is not that remote work can never improve productivity. It is that the response endorsed a broad, precise statistic for academic use without providing an identifiable source that could be checked.
+Does the available evidence justify presenting “remote workers are generally 25% more productive than office workers” as a research-ready, general claim?
 
-Issues requiring evaluation:
+This is different from asking whether some remote-work arrangements have improved measured performance in particular settings.
 
-- **Claim–evidence match:** No source was supplied to establish the specific 25% general claim.
-- **Scope/generalization:** “Remote workers” and “office workers” are broad groups. The response did not qualify the result by job type, work arrangement, time period, outcome measure, or context.
-- **Source traceability:** The alleged study was described in detail but not identified sufficiently for a reader to locate and inspect it.
-- **Confidence calibration:** “Several studies have proven” and “you can confidently use this statistic” express stronger certainty than the evidence shown in the answer warrants.
-- **Academic suitability:** The answer should have advised against using the exact statistic until a source and its methods could be independently verified.
+## 3. Verification method
 
-These are defects in the response as presented. They do not establish that every underlying claim is false.
+I searched for the described source and checked authoritative, identifiable research summaries relevant to the underlying productivity question. The verification was limited to public search results and accessible institutional research pages; it was not an exhaustive systematic review.
 
-## 3. Independent source check
+For the alleged 12,000-employee / 18-company / three-year study, the information available in the original response was insufficient to identify and verify a matching publication. No matching source is established in this case record.
 
-A targeted search was conducted for the distinctive combination of details in the AI response: a 24.7% productivity difference, 12,000 employees, 18 companies, and a three-year study. The search did not identify a source that could be confidently matched to all of those details.
+I then used identifiable studies to test whether the broad 25% generalization is defensible. These studies are **contextual evidence** about remote-work productivity; they are not assumed to be the source of the AI's specific 24.7% figure.
 
-This is a limited search result, not proof of non-existence. The original answer supplied no citation to follow, and the search cannot establish that no such study exists.
+## 4. Verified contextual evidence
 
-### Relevant research located
+### Source A — Stanford Graduate School of Business
 
-The following real publications provide useful context. They do **not** verify the alleged 24.7% study.
+**Study:** Nicholas Bloom, James Liang, John Roberts, and Zhichun Jenny Ying, “Does Working from Home Work? Evidence from a Chinese Experiment.”
 
-1. **Mang and Anwar (2026), “Does Working from Home Improve Employees’ Productivity? Empirical Evidence from a Meta-Analysis.”** The article reports a meta-analysis of 3,574 estimates from 82 studies. Its abstract describes a small positive average effect in some periods and contexts, substantial heterogeneity, and publication-bias concerns. It does not support a universal claim that remote workers are generally 25% more productive.  
-   Source: https://journals.sagepub.com/doi/full/10.1177/00197939261456260
+The study reports a nine-month experiment at CTrip involving call-centre employees who volunteered to work from home. The work-from-home group had a 13% performance increase during the experiment. After employees could reselect their work arrangement, the gains nearly doubled to 22%.
 
-2. **Gibbs, Mengel, and Siemroth (2023), “Work from Home and Productivity: Evidence from Personnel and Analytics Data on Information Technology Professionals.”** Using data from more than 10,000 skilled professionals at an Indian technology company during the pandemic, the study reports that hours worked increased while output declined slightly and measured productivity fell by 8%–19%. This is a specific setting and period, not a universal estimate for all remote work.  
-   Source: https://doi.org/10.1086/721803
+**What this supports:** A specific work-from-home arrangement was associated with measured performance gains in this setting.
 
-3. **Bloom and colleagues (2024), “Hybrid working from home improves retention without damaging performance.”** A randomized trial involving 1,612 employees at a Chinese technology company found that a hybrid arrangement improved job satisfaction and reduced quit rates, while performance grades and promotions did not show a significant difference. This studies hybrid work at one company; it does not validate the 25% claim for fully remote workers generally.  
-   Source: https://www.nature.com/articles/d41586-024-01763-5
+**What it does not establish:** That remote workers in general are 25% more productive across occupations, companies, countries, and measurement methods.
 
-### What the source check supports
+Source: https://www.gsb.stanford.edu/faculty-research/publications/does-working-home-work-evidence-chinese-experiment
 
-The research located shows that productivity outcomes vary with study design, job, context, and whether the arrangement is fully remote or hybrid. It does not justify presenting a single 25% figure as a general rule. The studies above are contextual evidence, not proof that the unreferenced study description is false.
+### Source B — U.S. Bureau of Labor Statistics
 
-## 4. Evaluation verdict
+The BLS's October 2024 review explains that productivity outcomes depend on factors including job tasks, technology, the home environment, worker motivation, and management practices. It describes differing results across studies and distinguishes individual-worker productivity measures from broader industry-level productivity.
 
-**Verdict on the response as presented: Major revision required.**
+**What this supports:** The evidence is context-dependent and should not be collapsed into a universal percentage without specifying the population, setting, and outcome measure.
 
-**Reason:** The answer recommended a precise, generalized statistic for academic research without providing a verifiable citation, while using language that conveyed unwarranted certainty. The user could not independently check the alleged study or determine whether its sample, methods, and results supported the proposed wording.
+**What it does not establish:** A single universal 25% productivity advantage for remote workers.
 
-**Source-fabrication finding: Not established.** Because the source was not identified and the search was not exhaustive, the evidence available here does not justify concluding that the described study was fabricated.
+Source: https://www.bls.gov/opub/btn/volume-13/remote-work-productivity.htm
 
-**Recommended treatment of the 25% statistic:** Do not use it as a general factual statement unless an identifiable source is found and its methods, population, outcome measure, and result are checked. This is a research-use recommendation, not a claim that the number has been conclusively disproved.
+### Source C — National Bureau of Economic Research
 
-## 5. A more defensible answer to the original user
+The NBER summary of the CTrip experiment likewise reports a 13% increase for the work-from-home group during the trial, with much of the increase associated with more minutes worked per shift and a smaller portion associated with more calls per minute.
 
-> I would not state that remote workers are generally 25% more productive than office workers without a specific, verifiable source for that figure. Research on working from home reports different outcomes across jobs, study designs, time periods, and fully remote versus hybrid arrangements. For example, a 2026 meta-analysis reports a small positive average effect in some contexts, while other studies find neutral or negative productivity outcomes in particular settings. Find and inspect the original study before using the 25% statistic; otherwise, describe the evidence as mixed and context-dependent, with a citation to the research you actually reviewed.
+**What this supports:** Even when a study reports a positive result, the evaluator should inspect what “productivity” means and how the reported change was measured.
 
-This wording avoids replacing one unsupported universal claim with another.
+**Limitation:** This is a summary of the same CTrip research discussed in Source A, not an independent replication. These two sources must not be counted as two independent studies.
 
-## 6. Scoring and calibration record
+Source: https://www.nber.org/digest/sep13/evidence-chinese-experiment-working-home
 
-The original working notes recorded these scores:
+## 5. Findings
 
-| Dimension | Original score / 5 |
-|---|---:|
-| Accuracy | 3 |
-| Completeness | 2 |
-| Relevance | 3 |
-| Reasoning | 2 |
-| Instruction-following | 2 |
-| Clarity | 4 |
+| Check | Finding | Status |
+|---|---|---|
+| Source identification | The response did not name or link the alleged 12,000-employee study. | Failed |
+| Existence of the specific alleged study | Not established by the information available in this evaluation. | Unverified |
+| Accuracy of the alleged 24.7% result | No identifiable source was available to check the number or its context. | Unverified |
+| Generalization to remote workers overall | Identifiable research describes context-specific outcomes, not a universal 25% gain. | Not supported by the sources checked |
+| “Several studies have proven” | The response supplied no citations that would let the user inspect this claim. | Unsupported in the response |
+| Confidence and research advice | The response recommended using the statistic confidently despite not showing verifiable evidence. | Poorly calibrated |
 
-The notes also recorded an overall deliverable score of **94/100** and a severity of **Major — Needs Major Revision**.
+## 6. Evaluation verdict
 
-**Calibration issue:** The six dimension scores total 16/30, and the available notes do not provide a conversion rule explaining how they produced 94/100. Those figures cannot be reconciled from the current record. Preserve them as historical scores, but do not present 94/100 as a validated aggregate until the original scoring rubric and calculation are recovered. The qualitative concern about score calibration remains valid.
+**Verdict: The broad 25% claim is not adequately supported for use as written.**
 
-The final severity above is based on the answer's missing traceable support and excessive certainty, not on an assumption that the source was fabricated.
+The main defect is not that this evaluation has proved the 24.7% figure false. It has not. The defect is that the AI response provided no traceable source for a precise empirical claim, failed to establish that the alleged study supported the figure, and encouraged the user to use a broad generalization confidently.
 
-## 7. What changed in this revision
+The distinction matters:
 
-- Separated observable response defects from unverified claims about the alleged study.
-- Added an independent search note and linked contextual research.
-- Avoided treating failure to locate a source as proof of fabrication.
-- Narrowed the verdict to what the available evidence supports.
-- Flagged the unresolved mismatch between the recorded dimension scores and 94/100 overall score.
-- Added a more cautious, research-appropriate replacement answer.
+- **Unsupported** means the evidence presented does not establish the claim.
+- **Unverified** means the specific source or detail could not be confirmed from the information available.
+- **Fabricated** would require additional evidence that the source or details were invented or falsely represented.
 
-## 8. Limitations and next steps
+This case supports the first two labels for different parts of the response; it does not establish the third.
 
-This is a desk-research evaluation, not a systematic review. The search was targeted rather than exhaustive, and the exact original source remains unidentified. The three publications listed above are relevant context, but none has been shown to be the source described by the AI response.
+## 7. Severity and scoring calibration
 
-To close the remaining evidence gap, locate the original prompt/output record or any citation that accompanied it, if one exists. If no citation exists, retain that fact as a limitation. Do not infer source fabrication from the gap alone.
+**Recommended severity: Major — Needs Major Revision.**
 
-## Evaluator takeaway
+Rationale: The response gave research advice based on an untraceable statistic, invoked unnamed studies as proof, and generalized across workers without establishing scope or measurement comparability. These defects materially affect whether the user can responsibly use the answer in academic research.
 
-A precise number and a detailed study description can sound authoritative without giving the reader a way to verify them. The evaluator's job is to test whether the response provides sufficient traceable evidence for the claim and confidence it presents.
+**Scoring note:** The earlier version recorded Accuracy 3/5 and an overall deliverable score of 94/100. External review flagged that the numerical score was more lenient than the written criticism. This revision preserves that historical record rather than silently rewriting the original evaluation. A definitive replacement numerical score is not assigned here because the full original scoring rubric and its aggregation rules are not documented in this case file.
 
-**Core lesson: distinguish an unsupported answer from a proven false claim, and distinguish a missing citation from demonstrated fabrication.**
+## 8. Safer answer to the original user
+
+> I wouldn't state that remote workers are generally 25% more productive without a specific, verifiable source that supports that exact figure and population. Research findings vary by job, work arrangement, environment, and productivity measure. For example, a Stanford-reported CTrip call-centre experiment found a 13% performance increase under its particular conditions, while the U.S. Bureau of Labor Statistics describes mixed and context-dependent findings. These results do not establish a universal 25% advantage. Use a narrower, qualified statement tied to a named study, or describe the evidence as mixed until you have sources that support the exact claim.
+
+## 9. What this case demonstrates
+
+This practice case demonstrates the evaluator's process for:
+
+1. Separating a plausible topic-level claim from a precise statistic.
+2. Checking whether the alleged source is identifiable.
+3. Distinguishing “not verified” from “proven false” or “fabricated.”
+4. Comparing the scope of a claim with the population and measure in an identifiable study.
+5. Not double-counting institutional summaries of the same underlying research as independent evidence.
+6. Matching severity to the impact of the defect while avoiding unsupported numerical precision in scoring.
+7. Recommending a safer, evidence-aligned revision.
+
+## 10. Limitations and next steps
+
+- The search was targeted, not exhaustive; failure to identify the alleged study does not prove it does not exist.
+- The contextual studies cited here do not verify the exact 24.7% figure or the alleged 12,000-employee / 18-company / three-year study.
+- A systematic review or meta-analysis would be needed for a broader synthesis of the research literature.
+- The earlier score of 94/100 is preserved as historical data; the underlying rubric and aggregation calculation should be recovered before recalculating it.
+
+## Source list
+
+1. Bloom, N., Liang, J., Roberts, J., & Ying, Z. J. “Does Working from Home Work? Evidence from a Chinese Experiment.” Stanford Graduate School of Business. https://www.gsb.stanford.edu/faculty-research/publications/does-working-home-work-evidence-chinese-experiment
+2. Pabilonia, S. W., & Redmond, J. J. “The rise of remote work since the pandemic and its impact on productivity.” U.S. Bureau of Labor Statistics, October 2024. https://www.bls.gov/opub/btn/volume-13/remote-work-productivity.htm
+3. National Bureau of Economic Research. “Evidence from a Chinese Experiment on Working from Home.” September 2013. https://www.nber.org/digest/sep13/evidence-chinese-experiment-working-home
+
+**Portfolio integrity note:** This is an independent practice evaluation. It is not represented as paid client work, a formal systematic review, or an externally validated benchmark.
