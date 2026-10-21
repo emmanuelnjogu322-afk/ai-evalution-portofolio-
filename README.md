@@ -1,150 +1,111 @@
-# AI Evaluation Portfolio
-**AI Quality Evaluation • Prompt Verification • Evidence Analysis**
+# AI Evaluation & Quality Portfolio
 
-A growing portfolio documenting hands-on development in AI output evaluation, evidence verification, prompt engineering, and quality analysis.
+**AI output evaluation · Evidence verification · Prompt quality · Human judgment**
 
-## Evaluation workflow
+This repository documents my developing practice in evaluating AI-generated answers, checking claims against evidence, identifying quality issues, and explaining judgments clearly. It is a work-in-progress portfolio built from independent exercises, mock evaluations, and structured learning—not a claim of paid professional experience.
 
-1. Understand the task and constraints.
-2. Inspect claims, omissions, reasoning, and uncertainty.
-3. Verify important claims with appropriate evidence.
-4. Apply a consistent evaluation rubric.
-5. Assess severity and impact.
-6. Check confidence against evidence strength.
-7. Document the reasoning so it is auditable.
-8. Revise and retest where appropriate.
+## What I Practise
 
-## Portfolio structure
+- **Evidence verification:** checking whether important claims are supported by relevant, credible sources.
+- **Response quality review:** assessing accuracy, relevance, completeness, reasoning, clarity, reliability, and instruction-following.
+- **Error and risk analysis:** identifying unsupported claims, contradictions, omissions, overconfidence, and potentially misleading conclusions.
+- **Severity assessment:** explaining why an issue matters and how it affects the usefulness or trustworthiness of an answer.
+- **Prompt evaluation:** checking how task framing, context, constraints, and verification affect an AI response.
+- **Clear reporting:** documenting the evidence, reasoning, limitations, and recommended revisions so another reviewer can follow the judgment.
 
-```text
-evaluation-rubrics/
-case-studies/
-mock-evaluations/
-prompt-engineering/
-methodology/
-learning-log/
-```
+## Selected Work
 
-## Authenticity principle
+### 1. Remote-work productivity claim review
+**Status:** Documented practice case
 
-This repository documents practice work and learning, not fabricated professional experience. AI tools may assist with critique, formatting, or checking reasoning; the evaluation judgment and final documented conclusions are reviewed by me.
+A review of AI-generated claims about a reported **25% productivity gain** associated with remote work.
 
-## Current focus
+**Focus**
+- Checking whether claims are supported by the evidence provided.
+- Looking for unsupported conclusions and gaps between sources and the answer.
+- Recording why the response needs revision rather than accepting a confident-sounding summary at face value.
 
-AI evaluation • Prompt engineering • ML fundamentals • Multimodal evaluation
+**Key lesson:** A response can combine plausible statements while still failing to establish the specific conclusion it presents. The evidence trail matters as much as the wording.
+
+> This is an independent practice case, not a client engagement or externally validated benchmark. Any scores should be interpreted only in the context of the documented rubric and example.
+
+### 2. Additional claim-analysis exercises
+**Status:** In progress
+
+I am developing further practice reviews involving AI-related business claims, income claims, and technical accuracy. These will be described as completed only when the corresponding analysis and supporting evidence are documented in the repository.
+
+## My Evaluation Workflow
+
+1. **Define the claim and task** — identify exactly what the answer must establish and any relevant constraints.
+2. **Inspect the response** — note claims, reasoning, omissions, uncertainty, and instruction-following.
+3. **Trace the evidence** — connect important statements to sources and check source relevance and credibility.
+4. **Identify the issue** — distinguish factual errors from unsupported claims, incomplete answers, contradictions, and unclear reasoning.
+5. **Assess severity** — explain the likely impact of the issue using the criteria in the evaluation rubric.
+6. **Calibrate confidence** — make sure the strength of the judgment matches the strength of the evidence.
+7. **Document limitations** — state what was and was not verified.
+8. **Recommend a revision** — describe how the response could become more accurate, complete, or transparent.
+
+## Evaluation Principles
+
+I aim to assess AI outputs consistently across these dimensions:
+
+| Dimension | What I check |
+|---|---|
+| Accuracy | Are factual statements correct and adequately supported? |
+| Relevance | Does the response address the actual task? |
+| Completeness | Does it cover the important parts without material omissions? |
+| Reasoning | Do the conclusions follow from the evidence and stated assumptions? |
+| Clarity | Can a reader understand the answer and its limits? |
+| Reliability | Does the response avoid unsupported certainty and misleading framing? |
+| Instruction-following | Does it respect the task, constraints, and requested format? |
+
+A strong evaluation should be **traceable, proportionate, and honest about uncertainty**. A score without a clear rubric, evidence, and explanation is not enough.
+
+## Repository Guide
+
+The repository is organized around these working areas:
+
+- `evaluation-rubrics/` — criteria for structured quality review.
+- `case-studies/` — documented examples of claim and response analysis.
+- `mock-evaluations/` — practice evaluation exercises.
+- `prompt-engineering/` — notes and exercises on prompt design and verification.
+- `methodology/` — evaluation process and quality principles.
+- `learning-log/` — ongoing learning and reflections.
+
+Folder contents and completion status may evolve as I add and review evidence.
+
+## Learning & Development
+
+My current development focus includes AI output evaluation, evidence-based web research, prompt engineering, multimodal data quality, and ML fundamentals.
+
+Completed learning includes:
+- **AI Fluency for Students** — Anthropic
+- **AI Fluency for Creators** — Anthropic
+- **Building Effective Human-Agent Teams** — Anthropic (beta course)
+- **AI Fluency: Frameworks and Foundations** — Anthropic
+
+These courses support my learning; they are not presented as professional work experience.
+
+## Current Direction
+
+I am building practical skills for entry-level opportunities in:
+- AI response evaluation and quality review
+- Data annotation and guideline-based quality checks
+- Evidence verification and research support
+- Prompt testing and content quality assessment
+
+My approach combines structured criteria with human judgment: AI tools can assist with exploration and critique, but conclusions still need to be checked against the task, evidence, and limitations.
 
 ## About
 
-**Emmanuel Njogu Wakio** — University student building practical capability in AI and data quality evaluation.
+I am a Journalism and Mass Communication student developing a portfolio at the intersection of AI quality, research, and clear communication. My aim is to make evaluation decisions understandable and auditable—not merely assign a score.
+
+## Connect
+
+- **GitHub:** [emmanuelnjogu322-afk](https://github.com/emmanuelnjogu322-afk)
+- **LinkedIn:** [Emmanuel Njogu](https://ke.linkedin.com/in/emmanuel-njogu-912848431)
+- **Email:** [emmanuelnjogu322@gmail.com](mailto:emmanuelnjogu322@gmail.com)
 
 ---
 
-*Portfolio foundation — September 2026.*
-🔍 AI Evaluation & Quality Analysis Portfolio
-AI Quality Analyst | Prompt Verifier | University Student
-Building systematic expertise in AI quality evaluation, evidence analysis, and output verification through documented case studies and structured skill development.
-
-
- 📊 Featured Case Studies
-
-1. Remote Work Productivity & AI Claims ✅
--Analysis Type: Claim verification | Evidence assessment | Contradiction analysis
-- What I Evaluated:AI claims about 25% productivity gains in remote work
-- My Methodology: Gathered sources, assessed evidence quality, identified gaps
-- Key Finding: [The Ai gathered various unsupported claims into one response]
-- Completion Score:92/100
-
-2. Social Media Sales AI Benefits 🔄
--Analysis Type:Evidence synthesis | Business claim validation  
-- Status:In Progress
-- Focus:Evaluating AI's impact on social media sales strategies
-
- 3. AI Freelancing Economics 🔄
--Analysis Type:Market claim analysis | Income verification
-- Status:In Progress
-- Focus:Testing claims about AI-assisted freelancing income potential
-
- 4. Fitness Tracking Accuracy 🔄
- -Analysis Type:Technical claim analysis | Data reliability
-- Status:In Progress
-- Focus:Evaluating accuracy of AI fitness tracking applications
-
-
-
-What I Can Do
-
-✅ Evidence Verification— Find sources, check credibility, spot weak claims  
-✅ Quality Analysis — Evaluate AI outputs for accuracy and reliability  
-✅ Contradiction Detection — Identify inconsistencies and false statements  
-✅ Clear Documentation — Write detailed findings that are easy to understand  
-✅ Systematic Evaluation — Apply consistent methodology across all analysis  
-✅ Critical Thinking — Question assumptions, dig deeper than surface-level
-
-
-
- 📈 Certifications & Learning
-
-✅ AI Fluency for Students — Anthropic (Completed)
-🔄 AI Fluency (General) — Anthropic (In Progress)
-🔄 AI Fluency for Creators — Anthropic (In Progress)
-
-Current Focus:Systematic AI quality evaluation and prompt verification
-
-
-
- 💼 Perfect For
-
-- 🔹 AI Quality Analyst — Evaluating AI responses for accuracy and quality
-- 🔹 Prompt Verifier — Testing if prompts produce correct outputs
-- 🔹 Content Reviewer — Assessing content quality and appropriateness
-- 🔹 Evidence Analyst — Evaluating claims and supporting evidence
-
-
-
-🔧 My Evaluation Process
-
-How I analyze AI quality systematically:**
-
-1. Understand the Claim — What exactly is being said?
-2. Gather Evidence — Find sources that support or contradict it
-3. Check Source Quality — Are these sources reliable and relevant?
-4. Look for Contradictions — Do sources disagree? What's the conflict?
-5. Consider Context — Does this claim make sense in the bigger picture?
-6. Identify Risks — Could this cause harm or mislead people?
-7. Document Findings — Write clear, detailed reports of what I found
-
- 📊 Track Record
-
-Completed Projects:4 case studies  
-Average Quality Score:91/100  
-Skills Demonstrated:Systematic analysis, quality evaluation, written communication  
-Status:Portfolio-ready and actively growing
-
-
-
- 🚀 Ready For
-
-✅ Remote work opportunities  
-✅ Part-time or full-time roles  
-✅ Immediate start availability  
-✅ Asynchronous evaluation work  
-✅ Quality-focused teams
-
-
- 🔗 Connect
-
-LinkedIn:https://ke.linkedin.com/in/emmanuel-njogu-912848431  
-Email:emmanuelnjogu322@gmail.com. 
-GitHub:github.com/emmanuelnjogu322-afk
-
-
-
- 📝 About Me
-
-University student building real capabilities in AI quality evaluation before entering the workforce. I'm not just claiming these skills—I'm demonstrating them through completed case studies, systematic methodology, and continuous learning.
-My goal:Be independent and capable enough to help others while maintaining high standards for quality work.
-
-
-
-*Portfolio Updated: September 2026*  
-*New case studies added regularly | Skills progressively developed*
+*This portfolio is actively developing. Project status, methods, and conclusions should be read alongside the evidence included in each artifact.*
