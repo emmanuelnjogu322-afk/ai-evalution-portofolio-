@@ -16,6 +16,7 @@ If you're reviewing my work for the first time, these are useful entry points:
 | [Response-ranking and calibration exercise](mock-evaluations/case-005-ranking-calibration.md) | Separating individual confidence from confidence in a comparative ranking | Completed practice case |
 | [Prompt-engineering learning record](prompt-engineering/README.md) | Applying prompting concepts through attempts, refinement, and verification | Ongoing learning record |
 | [Image-annotation learning log: Day 2](learning-log/image-annotation-day-02.md) | Understanding polygons, masks, keypoints, and segmentation concepts | Learning notes |
+| [Annotation QA case study 001](annotation-qa/annotation-qa-case-001.md) | A simulated review workflow for omissions, localization, uncertainty, and severity calibration | Constructed case; no real image inspected |
 | [AI Quality Lab](AI_QUALITY_LAB/README.md) | A five-domain framework for evaluating responses, agents, multimodal systems, localization, and workflows | Framework and proposed tests; experiments are not claimed as run |
 | [Security & Quality Policy](SECURITY_AND_QUALITY_POLICY.md) | Standards for evidence provenance, source independence, uncertainty, and auditability | Project policy |
 
@@ -66,6 +67,7 @@ My working criteria include:
 - [`SECURITY_AND_QUALITY_POLICY.md`](SECURITY_AND_QUALITY_POLICY.md) — evidence-integrity and quality principles.
 - [`prompt-engineering/`](prompt-engineering/README.md) — prompting concepts, examples, and learning reflections.
 - [`learning-log/`](learning-log/README.md) — ongoing learning notes, including annotation practice.
+- [`annotation-qa/`](annotation-qa/annotation-qa-case-001.md) — simulated annotation QA case study and planned validation workflow.
 - [`methodology/`](methodology/evaluation-process.md) — evaluation process and supporting frameworks.
 
 ## Learning & Development
